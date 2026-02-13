@@ -1,4 +1,5 @@
 # StanfordConvertXML
+The program is designed to process harvester(*.hpr & *.mom) and forwarder(*.fpr & *.mom) files and store the extracted information in the database.
 
 1. First, you need to create a database (PostgreSQL) to send data to.
 2. For exporting data, the following information must be specified in the “db.conf” file (open the file with a text editor):
